@@ -5,5 +5,6 @@ public class TestFile {
         System.out.println("Final attempt");
         System.out.println("Almaz message from local");
         System.out.println("Here more stuff");
+        System.out.println(" message from feature branch ");
     }
 }
