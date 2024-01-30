@@ -3,7 +3,8 @@ public class TestFile {
         System.out.println("my first message");
         System.out.println("my first message2");
         System.out.println("Final attempt");
-        System.out.println("Almaz message from local");
-        System.out.println("Here more stuff");
+        int b = 5;
+        int a = 0;
+        System.out.println(" message from feature branch ");
     }
 }
